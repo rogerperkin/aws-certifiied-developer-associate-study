@@ -9,3 +9,9 @@ AWS Certified Developer Associate Course from Adrian Cantrill
 
 https://learn.cantrill.io/
 
+AWS Exam Guide 
+
+https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf
+
+
+
