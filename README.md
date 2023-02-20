@@ -6,5 +6,6 @@ I started preparation for the Exam on 20th February 2023
 ## Resources used
 
 AWS Certified Developer Associate Course from Adrian Cantrill 
+
 https://learn.cantrill.io/
 
